@@ -14,5 +14,5 @@ Apasionado por la tecnología, la arquitectura de software y las comunidades té
 ## Contacto
 
 - Blog: [geovannycode.com](https://geovannycode.com)  
-- LinkedIn: [https://www.linkedin.com/in/geovannymendoza](https://www.linkedin.com/in/geovannycode/))  
-- Twitter: [twitter.com/geovannymcode](https://twitter.com/geovannymcode)](https://x.com/geovannycode)
+- LinkedIn: [https://www.linkedin.com/in/geovannymendoza](https://www.linkedin.com/in/geovannycode/)
+- Twitter: [twitter.com/geovannymcode](https://x.com/geovannycode)
